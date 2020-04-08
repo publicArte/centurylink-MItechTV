@@ -1,13 +1,17 @@
 /* #Base
 ===================================================================================================== */
-.center-three-boxes{
-    margin-left: 17%;
+#Top_bar {
+    top: 0px;
 }
 
+#Top_bar .top_bar_left {
+    width: 100vw!important;
+    margin-left: -4vw;
+}
 
-
-
-
+#Top_bar .menu_wrapper {
+    padding-right: 3vw;
+}
 
 /* #Tablet (Portrait) & Mobile - COMMON 														< 768	*
 ===================================================================================================== */
